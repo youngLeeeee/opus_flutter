@@ -1,6 +1,6 @@
 name: opus_flutter_android
 description: Android implementation of the opus_flutter plugin.
-repository: https://github.com/EPNW/opus_flutter/tree/master/opus_flutter_android
+repository: https://gitee.com/cs20304/opus_flutter/tree/master/opus_flutter_android
 version: 3.0.1
 
 environment:

@@ -1,6 +1,6 @@
 name: opus_flutter_web
 description: Web implementation of the opus_flutter plugin.
-repository: https://github.com/EPNW/opus_flutter/tree/master/opus_flutter_web
+repository: https://gitee.com/cs20304/opus_flutter/tree/master/opus_flutter_web
 version: 3.0.3
 
 environment:
