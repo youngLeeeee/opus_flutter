@@ -32,3 +32,5 @@ flutter:
         default_package: opus_flutter_windows
       web:
         default_package: opus_flutter_web
+      mac:
+        default_package: opus_flutter_mac
